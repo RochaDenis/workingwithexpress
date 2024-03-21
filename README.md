@@ -5,7 +5,7 @@ This repository contains a backend project demonstrating how to create a CRUD (C
 ## Technologies Used
 
 - Node.js: A JavaScript runtime environment on the server-side.
-- Express: A minimalist and flexible web framework for Node.js[^2^][2].
+- Express: A minimalist and flexible web framework for Node.js.
 - UUID: A package for generating unique identifiers.
 
 ## Features
